@@ -1,0 +1,24 @@
+{
+  "title": "Our Universe",
+  "openingQuote": "\u00abDi alam semesta yang begitu luas, aku tetap menemukanmu.\u00bb",
+  "entryButtonLabel": "Masuk ke Semesta Kita",
+  "skyTonight": {
+    "referenceLocation": {
+      "name": "",
+      "lat": null,
+      "lng": null
+    }
+  },
+  "specialDates": [
+    { "type": "birthday", "date": "" },
+    { "type": "anniversary", "date": "" },
+    { "type": "valentine", "date": "02-14" }
+  ],
+  "theme": {
+    "background": "#030308",
+    "accentGold": "#E8C888",
+    "accentRose": "#D98A9A",
+    "nebulaViolet": "#4A3B6B",
+    "textPrimary": "#F2EFE9"
+  }
+}
